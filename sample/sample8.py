@@ -68,3 +68,5 @@ kame.dash(120)
 kame.right(120)
 kame.niji_dash(350,25)
 kame.hideturtle()
+
+input("終了するにはENTERキーを押してください")
